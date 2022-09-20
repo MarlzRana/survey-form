@@ -1,0 +1,25 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1em;
+}
+
+.form-dropdown {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.form-text-input {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-text-input {
+  width: 40em;
+}
+
+.form-text-input-large input {
+  width: 40em;
+  height: 10em;
+}
